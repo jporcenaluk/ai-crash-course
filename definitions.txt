@@ -1,0 +1,19 @@
+is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy.
+
+the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.
+
+is a technology with human-like problem-solving capabilities
+
+the capability of a computer system to mimic human-like cognitive functions such as learning and problem-solving
+
+is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals
+
+is a field of science concerned with building computers and machines that can reason, learn, and act in such a way that would normally require human intelligence or that involves data whose scale exceeds what humans can analyze. [It] is a broad field that encompasses many different disciplines, including computer science, data analytics and statistics, hardware and software engineering, linguistics, neuroscience, and even philosophy and psychology... [It] is a set of technologies that are based primarily on machine learning and deep learning, used for data analytics, predictions and forecasting, object categorization, natural language processing, recommendations, intelligent data retrieval, and more
+
+is the simulation of human intelligence processes by machines, especially computer systems.
+
+refers to computer systems that can perform complex tasks normally done by human-reasoning, decision making, creating, etc. 
+
+refers to computer systems capable of performing complex tasks that historically only a human could do, such as reasoning, making decisions, or solving problems
+
+a technical and scientific field devoted to the engineered system that generates outputs such as content, forecasts, recommendations or decisions for a given set of human-defined objectives
